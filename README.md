@@ -6,7 +6,7 @@
 
 #### Preview
 ---
-![Landing Page Preview](https://github.com/cpa-landing-pages-generator/mario-kart-tour-generator-landing-page/blob/main/preview.JPG?raw=true)
+![Landing Page Preview](https://github.com/cpa-landing-pages-generator/mario-kart-tour-generator-cpa-landing-page/blob/main/preview.JPG?raw=true)
 
 #### Download
 ---
